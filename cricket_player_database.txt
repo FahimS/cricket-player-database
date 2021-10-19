@@ -1,0 +1,50 @@
+Sakib-Al-Hasan:bangladesh:male:married:yes:all rounder:yes:200000.00:29:01
+Tamim Iqbal:bangladesh:male:married:no:batsman:yes:150000.00:28:05
+Mashrafee Martuza:bangladesh:male:married:yes:bowler:no:150000.00:27:11
+Sabbir Rahman:bangladesh:male:unmarried:no:batsman:no:120000.00:22:08
+Souma Sarkar:bangladesh:male:unmarried:no:batsman:no:110000.00:22:12
+Imrul Kayes:bangladesh:male:married:no:batsman:no:130000.00:25:13
+Anamul Haque:bangladesh:male:unmarried:no:batsman:no:140000.00:23:14
+Mahmudullah Riad:bangladesh:male:married:no:all rounder:no:160000.00:25:10
+Mushfiqur Rahim:bangladesh:male:married:yes:batsman:no:150000.00:30:15
+Mustafizur Rahman:bangladesh:male:unmarried:no:bowler:yes:190000.00:20:16
+Taskin Ahmed:bangladesh:male:unmarried:no:bowler:no:180000.00:21:17
+Nasir Hossain:bangladesh:male:unmarried:no:all rounder:no:110000.00:24:18
+Mehedi Hasan Miraz:bangladesh:male:unmarried:no:all rounder:no:100000.00:22:19
+Mosaddek Hossain:bangladesh:male:unmarried:no:batsman:no:130000.00:22:49
+Rubel Hossain:bangladesh:male:unmarried:no:bowler:no:140000.00:27:20
+Al-Amin:bangladesh:male:unmarried:no:bowler:no:150000.00:24:21
+Arafat Sunny:bangladesh:male:unmarried:no:bowler:no:160000.00:24:22
+Mominul Haque:bangladesh:male:unmarried:no:batsman:no:170000.00:23:23
+Safiul Islam:bangladesh:male:unmarried:no:bowler:no:180000.00:25:24
+Shahriar Nafees:bangladesh:male:married:no:batsman:no:190000.00:28:25
+Virat Kohli:india:male:unmarried:yes:all rounder:yes:200000.00:28:02
+MS Dhoni:india:male:married:yes:batsman:yes:190000.00:30:03
+Yuvraj Singh:india:male:married:no:batsman:yes:180000.00:29:26
+Rohit Sharma:india:male:unmarried:no:all rounder:yes:170000.00:28:50
+Gautam Gamvir:india:male:unmarried:yes:all rounder:yes:160000.00:27:27
+Suresh Raina:india:male:married:no:batsman:yes:150000.00:25:28
+Shikhar Dhawn:india:male:married:no:batsman:yes:140000.00:25:29
+Rahane:india:male:unmarried:no:bowler:yes:130000.00:24:30
+Rahul:india:male:married:no:bowler:yes:120000.00:22:31
+Manis Panday:india:male:unmarried:no:bowler:yes:110000.00:25:32
+Shahid Afridi:pakistan:male:married:yes:all rounder:no:200000.00:35:06
+Mohammad Amir:pakistan:male:unmarried:no:bowler:no:190000.00:26:33
+Misbah-ul-haq:pakistan:male:married:no:batsman:no:180000.00:27:34
+Mohammad Hafeej:pakistan:male:married:no:all rounder:no:170000.00:29:07
+Umar Akmal:pakistan:male:unmarried:yes:batsman:no:160000.00:27:35
+Azhar Ali:pakistan:male:married:no:batsman:no:150000.00:24:36
+Younis Khan:pakistan:male:married:no:bowler:no:140000.00:31:37
+Shoaib Malik:pakistan:male:married:no:all rounder:no:130000.00:30:38
+Ahmed Shehzad:pakistan:male:unmarried:no:bowler:no:120000.00:25:39
+Junaid Khan:pakistan:male:married:no:batsman:no:110000.00:26:40
+Kumar Sangakara:srilanka:male:married:yes:all rounder:yes:200000.00:40:04
+TM Dilshan:srilanka:male:married:yes:batsman:yes:190000.00:37:41
+Angelo Mathews:srilanka:male:unmarried:no:all rounder:yes:180000.00:36:09
+Lasith Malinga:srilanka:male:married:no:bowler:yes:170000.00:34:42
+Dinesh Chandimal:srilanka:male:unmarried:no:batsman:no:160000.00:25:43
+Rangana Herath:srilanka:male:unmarried:no:batsman:yes:150000.00:23:44
+Kusal Perera:srilanka:male:married:no:bowler:yes:140000.00:22:45
+Thisara Perera:srilanka:male:unmarried:no:bowler:no:130000.00:28:46
+Jeevan Mendis:srilanka:male:married:no:all rounder:yes:120000.00:29:47
+Upul Tharanga:srilanka:male:unmarried:no:bowler:yes:110000.00:21:48
